@@ -1,0 +1,9 @@
+{
+  "name": "hacker-ai-arena",
+  "version": "1.0.0",
+  "description": "AI Arena in single file",
+  "main": "api/index.js",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
